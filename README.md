@@ -23,8 +23,10 @@ B=np.array([0,10])
 result=np.linalg.solve(A,B)
 print(result)
 ```
-## Output:
-![output] c:\Users\admin\Pictures\Screenshots\Screenshot 2025-03-21 091824.png
+# Output:
+#![alt text](<Screenshot 2025-03-21 091824.png>)
+
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
