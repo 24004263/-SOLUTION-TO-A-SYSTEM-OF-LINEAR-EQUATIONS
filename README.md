@@ -22,7 +22,7 @@ A= np.array([[1,-3],[3,1]])
 B=np.array([0,10])
 result=np.linalg.solve(A,B)
 print(result)
-
+```
 ## Output:
 ![output] c:\Users\admin\Pictures\Screenshots\Screenshot 2025-03-21 091824.png
 ## Result: 
